@@ -2,10 +2,10 @@
 <manifest>
   <!-- Wileyfox Swift 2-->
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" />
-  <project name="DevelopedInside/android_device_wileyfox_msm8937-common" path="device/wileyfox/msm8937-common" revision="cm-13.0" />
-  <project name="DevelopedInside/android_device_wileyfox_marmite-common" path="device/wileyfox/marmite-common" revision="cm-13.0" />
-  <project name="DevelopedInside/android_device_wileyfox_marmite" path="device/wileyfox/marmite" revision="cm-13.0" />
-  <!-- <project name="DevelopedInside/android_device_wileyfox_marmiteX" path="device/wileyfox/marmite" revision="cm-13.0" /> -->
+  <project name="DevelopedInside/android_device_wileyfox_msm8937-common" path="device/wileyfox/msm8937-common" revision="cm-13.0-marmite-21052017" />
+  <project name="DevelopedInside/android_device_wileyfox_marmite-common" path="device/wileyfox/marmite-common" revision="cm-13.0-marmite-21052017" />
+  <project name="DevelopedInside/android_device_wileyfox_marmite" path="device/wileyfox/marmite" revision="cm-13.0-marmite-21052017" />
+  <!-- <project name="DevelopedInside/android_device_wileyfox_marmiteX" path="device/wileyfox/marmite" revision="cm-13.0-marmite-21052017" /> -->
   <project name="DevelopedInside/android_kernel_wileyfox_msm8937" path="kernel/wileyfox/msm8937" revision="android-wf-6.0" />
-  <project name="DevelopedInside/proprietary_vendor_wileyfox" path="vendor/wileyfox" revision="cm-13.0" />
+  <project name="DevelopedInside/proprietary_vendor_wileyfox" path="vendor/wileyfox" revision="cm-13.0-marmite-21052017" />
 </manifest>
